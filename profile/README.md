@@ -20,6 +20,12 @@
   - Schedule control
   - Spot Price sensitive control
 
+## Blinky PrisSensor
+* A virtual device with an open API that can be used by any system to monitor the spot price
+* It comes with a non-native web app so it can be monitored on any device with no installation.
+
+<img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
+
 ## Blinky Relay
 Multi-mode relay to turn on and off low power devices automatically
 * Floor pumps
