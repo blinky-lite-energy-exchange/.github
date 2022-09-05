@@ -27,3 +27,10 @@ Multi-mode relay to turn on and off low power devices automatically
 * System on/off control  
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRelay.png"/><br>
+
+## Blinky Rheostat
+Multi-mode low-medium torque stepper motor to adjust dials or valves automatically
+* Temperature control
+* Flow control
+
+<img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRheostat.png"/><br>
