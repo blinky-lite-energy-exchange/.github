@@ -26,4 +26,4 @@ Multi-mode relay to turn on and off low power devices automatically
 * Radiator pumps
 * System on/off control  
 
-![Blinky Relay](figures/blinkyRelay.png)
+![Blinky Relay](blinkyRelay.png)
