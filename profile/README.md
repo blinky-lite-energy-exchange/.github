@@ -6,9 +6,24 @@
   - Could dramatically reduce costs by shifting usage to off peak hours
   - However, following spot prices requires constant vigilance
     * Monitoring spot price manually is exhausting and error prone
-    * To be effective spot pricing monitoring must be automatic.
+    * To be effective spot pricing monitoring <ins>must be automatic.</ins>
 * There are a number of companies offering automated monitoring
-  - Most of these services require the user to purchase expensive new equipment (such as heating systems) that can be connected to the internet.
-* Throwing out old systems that are still functioning is UNSUSTAINABLE!
+  - Most of these services <ins>**require the user to purchase expensive new equipment**</ins> (such as heating systems) that can be connected to the internet.
+* Throwing out old systems that are still functioning is <ins>***UNSUSTAINABLE!***</ins>
   - And financially not possible for fixed income families
   - And small businesses
+
+## A Sustainable Open Source Approach
+* We have harnessed Blinky-Lite to provide low cost retrofits <ins>to existing equipment</ins> using ***Edge computing***
+* We have built a number of devices that easily interface with the scalable Blinky-Lite system that operate with three different modes
+  - Manual control
+  - Schedule control
+  - Spot Price sensitive control
+
+## Blinky Relay
+Multi-mode relay to turn on and off low power devices automatically
+* Floor pumps
+* Radiator pumps
+* System on/off control  
+
+![Blinky Relay](figures/blinkyRelay.png)
