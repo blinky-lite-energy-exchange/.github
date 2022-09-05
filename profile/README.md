@@ -26,6 +26,13 @@
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
 
+## Blinky Eon Mon
+A P1-HAN compatible electricity monitor with intuitive displays
+* Secure, reliable, high rate Bluetooth connection to any network network.
+* It comes with a non-native web app so it can be monitored on any device with no installation.
+
+<img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyEonMon.png"/><br>
+
 ## Blinky Relay
 Multi-mode relay to turn on and off low power devices automatically
 * Floor pumps
