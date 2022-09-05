@@ -34,3 +34,10 @@ Multi-mode low-medium torque stepper motor to adjust dials or valves automatical
 * Flow control
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRheostat.png"/><br>
+
+## Blinky IR
+Multi-mode interface that connects to any device that can be controlled by an infra-red (IR) remote control
+* Most heat-pumps have a IR remote control
+* We have interfaces for 29 different heat pump models
+
+<img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyIvt.png"/><br>
