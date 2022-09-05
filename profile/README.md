@@ -1,1 +1,1 @@
-# The Blinky-Lite Energy<sup>TM</sup> Exchange
+# The Blinky-Lite<sup>TM</sup> Energy Exchange
