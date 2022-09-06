@@ -1,4 +1,9 @@
 # The Blinky-Lite Energy Exchange
+## Contents
+* [A Shock](#a-shock)
+* [Blinky IR](#blinky-ir)
+
+
 ## A Shock
 * Currently, electricity prices have risen dramatically across Europe
 * At these rates, people on fixed incomes and small business are at dire financial risk
