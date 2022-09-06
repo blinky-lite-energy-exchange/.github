@@ -1,7 +1,5 @@
 # The Blinky-Lite Energy Exchange
 ## Table of Contents
-* [A Shock](#a-shock)
-* [A Sustainable Open Source Approach](#a-shock)
 * [Blinky PrisSensor](#blinky-prissensor)
 * [Blinky Eon Mon](#blinky-eon-mon)
 * [Blinky Relay](#blinky-relay)
@@ -10,7 +8,6 @@
 
 
 ## A Shock
-[(contents)](#table-of-contents)<br>
 * Currently, electricity prices have risen dramatically across Europe
 * At these rates, people on fixed incomes and small business are at dire financial risk
 * Sweden offers spot pricing for electricity
@@ -25,7 +22,6 @@
   - And small businesses
 
 ## A Sustainable Open Source Approach
-[(contents)](#table-of-contents)<br>
 * We have harnessed Blinky-Lite to provide low cost retrofits <ins>to existing equipment</ins> using ***Edge computing***
 * We have built a number of devices that easily interface with the scalable Blinky-Lite system that operate with three different modes
   - Manual control
