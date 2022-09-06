@@ -1,10 +1,16 @@
 # The Blinky-Lite Energy Exchange
-## Contents
+## Table of Contents
 * [A Shock](#a-shock)
-* [Blinky IR](#blinky-ir)
+* [A Sustainable Open Source Approach](#a-shock)
+* [Blinky PrisSensor](#blinky-prissensor)
+* [Blinky Eon Mon](#blinky-eon-mon)
+* [Blinky Relay](#blinky-relay)
+* [Blinky Rheostat](#blinky-rheostat)
+* [Blinky Heat Pump](#blinky-heat-pump)
 
 
 ## A Shock
+[(contents)](#table-of-contents)<br>
 * Currently, electricity prices have risen dramatically across Europe
 * At these rates, people on fixed incomes and small business are at dire financial risk
 * Sweden offers spot pricing for electricity
@@ -19,6 +25,7 @@
   - And small businesses
 
 ## A Sustainable Open Source Approach
+[(contents)](#table-of-contents)<br>
 * We have harnessed Blinky-Lite to provide low cost retrofits <ins>to existing equipment</ins> using ***Edge computing***
 * We have built a number of devices that easily interface with the scalable Blinky-Lite system that operate with three different modes
   - Manual control
@@ -26,12 +33,14 @@
   - Spot Price sensitive control
 
 ## Blinky PrisSensor
+[(contents)](#table-of-contents)<br>
 * A virtual device with an open API that can be used by any system to monitor the spot price
 * It comes with a non-native web app so it can be monitored on any device with no installation.
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
 
 ## Blinky Eon Mon
+[(contents)](#table-of-contents)<br>
 A P1-HAN compatible electricity monitor with intuitive displays
 * Secure, reliable, high rate Bluetooth connection to any network network.
 * It comes with a non-native web app so it can be monitored on any device with no installation.
@@ -39,6 +48,7 @@ A P1-HAN compatible electricity monitor with intuitive displays
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyEonMon.png"/><br>
 
 ## Blinky Relay
+[(contents)](#table-of-contents)<br>
 Multi-mode relay to turn on and off low power devices automatically
 * Floor pumps
 * Radiator pumps
@@ -47,13 +57,15 @@ Multi-mode relay to turn on and off low power devices automatically
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRelay.png"/><br>
 
 ## Blinky Rheostat
+[(contents)](#table-of-contents)<br>
 Multi-mode low-medium torque stepper motor to adjust dials or valves automatically
 * Temperature control
 * Flow control
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRheostat.png"/><br>
 
-## Blinky IR
+## Blinky Heat Pump
+[(contents)](#table-of-contents)<br>
 Multi-mode interface that connects to any device that can be controlled by an infra-red (IR) remote control
 * Most heat-pumps have a IR remote control
 * We have interfaces for 29 different heat pump models
