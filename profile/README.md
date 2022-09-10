@@ -55,9 +55,11 @@ Multi-mode relay to turn on and off low power devices automatically
 
 ## Blinky Rheostat
 [(contents)](#table-of-contents)<br>
-Multi-mode low-medium torque stepper motor to adjust dials or valves automatically
-* Temperature control
-* Flow control
+Many old heating systems use manual dials to control the temperature or the flow. Replacing the entire heating system just because the heating system is manually controlled would be very wasteful . Even just replacing the heating elements could cause damage to the old heating system. 
+
+With Blinky-Rheostat, a small stepper motor is placed on the knob stem. This stepper motor is directly controlled with [Blinky Rheostat Cube](https://github.com/blinky-lite-energy-exchange/blinky-rheostat-cube). The Blinky Rheostat cube can be remotely controlled via a Blinky-Rheostat tray which has access to the electric spot price and can talk and be controlled with an web app on the Blinky-Lite application box. 
+
+Source code at [Blinky Rheostat Tray](https://github.com/blinky-lite-energy-exchange/blinky-rheostat-tray)
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRheostat.png"/><br>
 
