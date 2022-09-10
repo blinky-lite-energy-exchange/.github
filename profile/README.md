@@ -39,7 +39,7 @@
     * [NO2 Price Area](https://www.blinky-lite.se/espotPrice?name=NO2)
     * [SE3 Price Area](https://www.blinky-lite.se/espotPrice?name=SE3)
     * [SE4 Price Area](https://www.blinky-lite.se/espotPrice?name=SE4)
-  - [Smart Watch (not Apple) Web App](https://www.blinky-lite.se/esps)
+  - [Smart Watch Web App](https://www.blinky-lite.se/esps) (not Apple) 
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
 
