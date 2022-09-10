@@ -57,7 +57,7 @@ Many old heating systems have no way to remotely turn them on and off so it is n
 
 It is not advised to power control a heating system by just turning it on and off with an electrical switch (relay). Instead an electrical switch (relay) can be used to control the  small pump that is used to pump hot water though the radiators.
 
-With Blinky Power Relay, a an electrical relay is placed in series with the power to the radiator water pump. The relay is directly controlled with [Blinky Power Relay cube](https://github.com/blinky-lite-energy-exchange/blinky-power-relay-cube). The Blinky Power Relay cube can be remotely controlled via a Blinky Power Relay tray which has access to the electric spot price and can talk and be controlled with an web app on the Blinky-Lite application box.
+With Blinky Power Relay, an electrical relay is placed in series with the power to the radiator water pump. The relay is directly controlled with [Blinky Power Relay cube](https://github.com/blinky-lite-energy-exchange/blinky-power-relay-cube). The Blinky Power Relay cube can be remotely controlled via a Blinky Power Relay tray which has access to the electric spot price and can talk and be controlled with an web app on the Blinky-Lite application box.
 
 Source code at [Blinky Power Relay Tray](https://github.com/blinky-lite-energy-exchange/blinky-power-relay-tray)
 
