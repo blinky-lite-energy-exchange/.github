@@ -59,6 +59,8 @@ It is not advised to power control a heating system by just turning it on and of
 
 With Blinky Power Relay, a an electrical relay is placed in series with the power to the radiator water pump. The relay is directly controlled with [Blinky Power Relay cube](https://github.com/blinky-lite-energy-exchange/blinky-power-relay-cube). The Blinky Power Relay cube can be remotely controlled via a Blinky Power Relay tray which has access to the electric spot price and can talk and be controlled with an web app on the Blinky-Lite application box.
 
+Source code at [Blinky Power Relay Tray](https://github.com/blinky-lite-energy-exchange/blinky-power-relay-tray)
+
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRelay.png"/><br>
 
 ## Blinky Rheostat
