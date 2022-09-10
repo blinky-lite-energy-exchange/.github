@@ -63,9 +63,9 @@ Multi-mode low-medium torque stepper motor to adjust dials or valves automatical
 
 ## Blinky Heat Pump
 [(contents)](#table-of-contents)<br>
-Multi-mode interface that connects to any device that can be controlled by an infra-red (IR) remote control
-* Most heat-pumps have a IR remote control
-* We have interfaces for 29 different heat pump models
+Just like many heat pumps, the IVT Heat pump web interface API is closed so it is not possible to interface a spot price device directly to this heat pump. In additon many older but perfectly functioning heat pumps do not even have an internet interface. Replacing the  heat pump just because the heat pump cannot connect to the internet would be very wasteful.
+
+However, as with most heat pumps, this heat pump is controlled with a infra-red remote control. As a workaround, the an infra-red remote control can be substituted with an [Blinky IVT Cube](https://github.com/blinky-lite-energy-exchange/blinky-ivt-cube) that is equipped with a an infra-red diode that can send the appropriate pulse sequence to the heat pump. A list of different pulse sequences can be found at [ToniA/arduino-heatpumpir](https://github.com/ToniA/arduino-heatpumpir). The [ToniA/arduino-heatpumpir](https://github.com/ToniA/arduino-heatpumpir) project contains pulse sequences for 29 different models of heat pumps so it possible to easily extend the Blinky IVT Cube to many different models of heat pumps. The Blinky IVT cube can be remotely controlled via a Blinky-IVT tray which has access to the electric spot price and can talk and be controlled with an web app on the Blinky-Lite application box.
 
 Source code at [Blinky IVT Tray](https://github.com/blinky-lite-energy-exchange/blinky-ivt-tray)
 
