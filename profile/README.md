@@ -33,6 +33,13 @@
 [(contents)](#table-of-contents)<br>
 * A virtual device with an open API that can be used by any system to monitor the spot price
 * It comes with a non-native web app so it can be monitored on any device with no installation.
+  - Mobile and Desktop Web App
+    * [DK1 Price Area](https://www.blinky-lite.se/espotPrice?name=DK1)
+    * [DK2 Price Area](https://www.blinky-lite.se/espotPrice?name=DK2)
+    * [NO2 Price Area](https://www.blinky-lite.se/espotPrice?name=NO2)
+    * [SE3 Price Area](https://www.blinky-lite.se/espotPrice?name=SE3)
+    * [SE4 Price Area](https://www.blinky-lite.se/espotPrice?name=SE4)
+  - [Smart Watch (not Apple) Web App](https://www.blinky-lite.se/esps)
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
 
