@@ -2,7 +2,7 @@
 
 **The Blinky-Lite Energy Exchange is a collection of open-source Blinky-Lite projects for optimizing electric energy usage via electric spot price.** 
 
-*Any Blinky-Lite Energy Exchange trays can be hosted on the [Blinky-Lite Cloud](https://www.blinky-lite.se/) at no cost*
+*Any Blinky-Lite Energy Exchange tray can be hosted on the [Blinky-Lite Cloud](https://www.blinky-lite.se/) at no cost.<br>Please contact info@bl-mc.se*
 
 ## Table of Contents
 * [Blinky PrisSensor](#blinky-prissensor)
