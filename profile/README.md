@@ -34,7 +34,8 @@
   - Schedule control
   - Spot Price sensitive control
 
-## Blinky PrisSensor
+## Projects
+### Blinky PrisSensor
 [(contents)](#table-of-contents)<br>
 * A virtual device with an open API that can be used by any system to monitor the spot price
 * It comes with a non-native web app so it can be monitored on any device with no installation.
@@ -48,7 +49,7 @@
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyPrice.png"/><br>
 
-## Blinky Eon Mon
+### Blinky Eon Mon
 [(contents)](#table-of-contents)<br>
 Identifying how much energy usage and when it used is key to figuring out how to reduce costs. Sweden is mandating that all home electricity meters be updated to smart meters equipped with a P1-HAN interface. Many electricity providers offer their own P1-HAN interface but require use of their web service which can be invasive and especially limiting on the display functionality and update rate. Unlike commercial providers, the Blinky Eon Mon  can also be used actively as a feedback device to control usage to other devices in the Blinky-Lite system..
 
@@ -58,7 +59,7 @@ Source code at [Blinky Eon Mon Tray](https://github.com/blinky-lite-energy-excha
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyEonMon.png"/><br>
 
-## Blinky Relay
+### Blinky Relay
 [(contents)](#table-of-contents)<br>
 Many old heating systems have no way to remotely turn them on and off so it is not possible to interface a spot price device directly to an old heating system. Replacing the entire heating system just because the heating system is manually controlled  but is otherwise functioning perfectly would be very wasteful. 
 
@@ -70,7 +71,7 @@ Source code at [Blinky Power Relay Tray](https://github.com/blinky-lite-energy-e
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRelay.png"/><br>
 
-## Blinky Rheostat
+### Blinky Rheostat
 [(contents)](#table-of-contents)<br>
 Many old heating systems use manual dials to control the temperature or the flow so it is not possible to interface a spot price device directly to an old heating system. Replacing the entire heating system just because the heating system is manually controlled would be very wasteful . Even just replacing the heating elements could cause damage to the old heating system. 
 
@@ -80,7 +81,7 @@ Source code at [Blinky Rheostat Tray](https://github.com/blinky-lite-energy-exch
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyRheostat.png"/><br>
 
-## Blinky Heat Pump
+### Blinky Heat Pump
 [(contents)](#table-of-contents)<br>
 Just like many heat pumps, the IVT Heat pump web interface API is closed so it is not possible to interface a spot price device directly to this heat pump. In additon many older but perfectly functioning heat pumps do not even have an internet interface. Replacing the  heat pump just because the heat pump cannot connect to the internet would be very wasteful.
 
