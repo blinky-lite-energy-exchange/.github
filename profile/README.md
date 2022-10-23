@@ -87,7 +87,7 @@ Just like many heat pumps, the IVT Heat pump web interface API is closed so it i
 
 However, as with most heat pumps, this heat pump is controlled with a infra-red remote control. As a workaround, the an infra-red remote control can be substituted with an [Blinky IVT Cube](https://github.com/blinky-lite-energy-exchange/blinky-ivt-cube) that is equipped with a an infra-red diode that can send the appropriate pulse sequence to the heat pump. A list of different pulse sequences can be found at [ToniA/arduino-heatpumpir](https://github.com/ToniA/arduino-heatpumpir). The [ToniA/arduino-heatpumpir](https://github.com/ToniA/arduino-heatpumpir) project contains pulse sequences for 29 different models of heat pumps so it possible to easily extend the Blinky IVT Cube to many different models of heat pumps. The Blinky IVT cube is based on a Raspberry Pi Pico Wireless board and can communicate directly with the Blinky-Lite application box in which resides a soft Blinky-IVT tray which has access to the electric spot price.
 
-Source code at [Blinky IVT Tray](https://github.com/blinky-lite-energy-exchange/blinky-ivt-cube)
+Source code at [Blinky IVT Cube](https://github.com/blinky-lite-energy-exchange/blinky-ivt-cube)
 
 <img src="https://github.com/blinky-lite-energy-exchange/.github/raw/master/profile/blinkyIvt.png"/><br>
 
