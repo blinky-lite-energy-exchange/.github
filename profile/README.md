@@ -10,6 +10,7 @@
 * [Blinky Relay](#blinky-relay)
 * [Blinky Rheostat](#blinky-rheostat)
 * [Blinky Heat Pump](#blinky-heat-pump)
+* [Skåne Solar Energy Hub](/solar-energy-hub/)
 * [Code Repositories](#code-repositories)
 
 
